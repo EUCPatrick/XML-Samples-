@@ -1,0 +1,261 @@
+<characteristic type="com.airwatch.android.androidwork.launcher" uuid="568bc89d-1df8-4ce9-a041-e5a24acdb7ec">
+        <parm name="ForYouWidgets" value="
+        {
+                &quot;ForYouWidgets&quot;: 
+                [
+                        {
+                                &quot;label&quot;: &quot;Serial&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;{DeviceSerialNumber}&quot;,
+                                &quot;icon&quot;: &quot;ic_action_bookmark&quot;
+                        },     
+                        {
+                                &quot;label&quot;: &quot;ic_action_bookmark&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_action_bookmark&quot;,
+                                &quot;icon&quot;: &quot;ic_action_bookmark&quot;
+                        }, 
+                            {
+                                &quot;label&quot;: &quot;ic_action_accept&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_action_accept&quot;,
+                                &quot;icon&quot;: &quot;ic_action_accept&quot;
+                        },
+                                                                        
+                                                                                                {
+                                &quot;label&quot;: &quot;ic_action_brightness&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_action_brightness&quot;,
+                                &quot;icon&quot;: &quot;ic_action_brightness&quot;
+                        }, 
+                                                                                                {
+                                &quot;label&quot;: &quot;ic_action_download&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_action_download&quot;,
+                                &quot;icon&quot;: &quot;ic_action_download&quot;
+                        }, 
+                                                                                                {
+                                &quot;label&quot;: &quot;ic_action_edit&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_action_edit&quot;,
+                                &quot;icon&quot;: &quot;ic_action_edit&quot;
+                        }, 
+                           {
+
+                                 &quot;label&quot;: &quot;ic_action_favorite&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_action_favorite&quot;,
+                                &quot;icon&quot;: &quot;ic_action_favorite&quot;
+                        }, 
+                           {
+
+                                 &quot;label&quot;: &quot;ic_action_filter&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_action_filter&quot;,
+                                &quot;icon&quot;: &quot;ic_action_filter&quot;
+                        }, 
+                                  {
+
+                                 &quot;label&quot;: &quot;ic_action_nightmode&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_action_nightmode&quot;,
+                                &quot;icon&quot;: &quot;ic_action_nightmode&quot;
+                        }, 
+                                  {
+
+                                 &quot;label&quot;: &quot;ic_action_open_in&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_action_open_in&quot;,
+                                &quot;icon&quot;: &quot;ic_action_open_in&quot;
+                        }, 
+                                  {
+
+                                 &quot;label&quot;: &quot;ic_action_print&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_action_print&quot;,
+                                &quot;icon&quot;: &quot;ic_action_print&quot;
+                        }, 
+                                  {
+
+                                 &quot;label&quot;: &quot;ic_action_save&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_action_save&quot;,
+                                &quot;icon&quot;: &quot;ic_action_save&quot;
+                        }, 
+                                  {
+
+                                 &quot;label&quot;: &quot;ic_action_search&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;iic_action_search&quot;,
+                                &quot;icon&quot;: &quot;ic_action_search&quot;
+                        }, 
+                                  {
+
+                                 &quot;label&quot;: &quot;ic_action_todo&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_action_todo&quot;,
+                                &quot;icon&quot;: &quot;ic_action_todo&quot;
+                        }, 
+                                  {
+
+                                 &quot;label&quot;: &quot;ic_action_trash&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_action_trash&quot;,
+                                &quot;icon&quot;: &quot;ic_action_trash&quot;
+                        }, 
+                                  {
+
+                                 &quot;label&quot;: &quot;ic_action_wipe&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_action_wipe&quot;,
+                                &quot;icon&quot;: &quot;ic_action_wipe&quot;
+                        }, 
+                                  {
+
+                                 &quot;label&quot;: &quot;ic_communication_compose&quot;,
+                                    &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_communication_compose&quot;,
+                                &quot;icon&quot;: &quot;ic_communication_compose&quot;
+                        }, 
+                                  {
+
+                                 &quot;label&quot;: &quot;ic_communication_downloads&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_communication_downloads&quot;,
+                                &quot;icon&quot;: &quot;ic_communication_downloads&quot;
+                        }, 
+                                  {
+
+                                 &quot;label&quot;: &quot;ic_communication_infor&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_communication_info&quot;,
+                                &quot;icon&quot;: &quot;ic_communication_info&quot;
+                        }, 
+                                  {
+
+                                 &quot;label&quot;: &quot;ic_communication_mail&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_communication_mail&quot;,
+                                &quot;icon&quot;: &quot;ic_communication_mail&quot;
+                        }, 
+                                  {
+
+                                 &quot;label&quot;: &quot;ic_communication_message&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_communication_message&quot;,
+                                &quot;icon&quot;: &quot;ic_communication_message&quot;
+                        },
+                                       {
+
+                                        &quot;label&quot;: &quot;ic_communication_network&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_communication_network&quot;,
+                                &quot;icon&quot;: &quot;ic_communication_network&quot;
+                        },
+                                            {
+
+                                        &quot;label&quot;: &quot;ic_communication_notification&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_communication_notification&quot;,
+                                &quot;icon&quot;: &quot;ic_communication_notification&quot;
+                        },
+                                {
+
+                                        &quot;label&quot;: &quot;ic_communication_question&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_communication_question&quot;,
+                                &quot;icon&quot;: &quot;ic_communication_question&quot;
+                        },
+                                {
+
+                                        &quot;label&quot;: &quot;ic_communication_reply&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_communication_reply&quot;,
+                                &quot;icon&quot;: &quot;ic_communication_reply&quot;
+                        },
+                                {
+
+                                        &quot;label&quot;: &quot;ic_communication_send&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_communication_send&quot;,
+                                &quot;icon&quot;: &quot;ic_communication_send&quot;
+                        },
+                                {
+
+                                        &quot;label&quot;: &quot;ic_communication_share&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_communication_share&quot;,
+                                &quot;icon&quot;: &quot;ic_communication_share&quot;
+                        },        {
+
+                                        &quot;label&quot;: &quot;ic_media_camera&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_media_camera&quot;,
+                                &quot;icon&quot;: &quot;ic_media_camera&quot;
+                        },
+                                {
+
+                                        &quot;label&quot;: &quot;ic_media_cloud&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_media_cloud&quot;,
+                                &quot;icon&quot;: &quot;ic_media_cloud&quot;
+                        },
+                                {
+
+                                        &quot;label&quot;: &quot;ic_media_desktop&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_media_desktop&quot;,
+                                &quot;icon&quot;: &quot;ic_media_desktop&quot;
+                        },
+                                {
+
+                                        &quot;label&quot;: &quot;ic_media_device&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_media_device&quot;,
+                                &quot;icon&quot;: &quot;ic_media_device&quot;
+                        },
+                                {
+
+                                        &quot;label&quot;: &quot;ic_media_file&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_media_file&quot;,
+                                &quot;icon&quot;: &quot;ic_media_file&quot;
+                        },
+                                {
+
+                                        &quot;label&quot;: &quot;ic_media_files&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_media_files&quot;,
+                                &quot;icon&quot;: &quot;ic_media_files&quot;
+                        },
+                               {
+
+                                        &quot;label&quot;: &quot;ic_navigation_settings_gear&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_navigation_settings_gear&quot;,
+                                &quot;icon&quot;: &quot;ic_navigation_settings_gear&quot;
+                        },
+                               {
+
+                                        &quot;label&quot;: &quot;ic_navigation_settings_nut&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_navigation_settings_nut&quot;,
+                                &quot;icon&quot;: &quot;ic_navigation_settings_nut&quot;
+                        },
+                               {
+
+                                        &quot;label&quot;: &quot;ic_security_lock&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_security_lock&quot;,
+                                &quot;icon&quot;: &quot;ic_security_lock&quot;
+                        },
+                        {
+                                &quot;label&quot;: &quot;ic_time_clock&quot;,
+                                &quot;type&quot;: &quot;lookupvalue&quot;,
+                                &quot;value&quot;: &quot;ic_time_clock&quot;,
+                                &quot;icon&quot;: &quot;ic_time_clock&quot;
+                        }
+
+                ]
+        }"/>
+</characteristic>
